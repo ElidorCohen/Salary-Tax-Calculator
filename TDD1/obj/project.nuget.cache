@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBDDEUlWl007PqAZMZb0BBbXOjcJi3wE8S/tDVvt1KSPO9wHAKxNp+DA2Vv2JXXZeDLLR2OfFBqK4ncLAoUGOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elido\\source\\repos\\TDD1\\TDD1\\TDD1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elido\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elido\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\elido\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
